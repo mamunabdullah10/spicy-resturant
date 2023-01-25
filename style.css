@@ -261,7 +261,9 @@ body {
     color: #686868cf;
     padding: 6px 10px 14px 10px;
 }
-
+.icon{
+    padding: 10px;
+}
 .card-one i {
     font-size: 20px;
     color: #222222;
