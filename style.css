@@ -69,6 +69,7 @@ body {
 .header-btn button:hover {
     background: none;
     border: solid 3px #8dc63f;
+    transition: .5s;
 }
 
 /* header section end */
